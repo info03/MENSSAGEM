@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NOTÍCIA DO DIA</title>
+</head>
+<body>
+    <h1>Título da Página</h1>
+    <p>Junior Soares mais conhecido como Queijo vai ser o papai noel do ANO! HTML.</p>
+    <img src="https://ogimg.infoglobo.com.br/in/23324147-126-f83/FT1086A/80364226_MANUAL-DE-CONDUTA-DO-PAPAI-NOELCurso-ensina-como-papai-noel-dome.jpg" alt="Descrição da imagem">
+</body>
+</html>
